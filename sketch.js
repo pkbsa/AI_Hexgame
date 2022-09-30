@@ -1,7 +1,7 @@
 let RED = 'r'
 let BLUE = 'b'
 let EMPTY = 'e'
-let hex_size = 7;  // 5, 7, or 11 are possible
+let hex_size = 5;  // 5, 7, or 11 are possible
 
 let colors = { 'r': '#ff0000', 'b': '#0000ff', 'e': '#ffffff' };
 let r = 20;

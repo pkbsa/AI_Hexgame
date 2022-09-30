@@ -7,7 +7,7 @@ class Agent {
   constructor(player) {
     this.player = player;
     this.curBestMove = null;
-    this.depthLimit = 2;
+    this.depthLimit = 3;
 
   }
 
